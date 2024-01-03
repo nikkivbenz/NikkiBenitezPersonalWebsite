@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App" > 
       <Row>
-        <Col md={2} className="sidebar">
+        <Col md={2} id="navb" className="sidebar border-end border-dark">
           <NavigationBar /> 
         </Col>
         <Col md={10}>
