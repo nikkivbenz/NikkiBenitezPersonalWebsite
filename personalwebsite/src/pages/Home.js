@@ -1,6 +1,6 @@
  function Home(){
     return(
-        <h1> Nikki Benitez </h1> 
+        <h2> Nikki Benitez </h2> 
     ); 
  }
  export default Home; 
