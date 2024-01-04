@@ -7,12 +7,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function NavigationBar() {
   return (
     <div> 
+      <h3> Nikki Benitez</h3>
         <ul>
         <li><a href="/">Home</a></li>
         <li><a href="/projects">Projects</a></li>
         <li><a href="/resume">Resume</a></li>
-        <li><a href="https://www.linkedin.com/in/nikkivbenitez/">Linkedin</a></li>
-        <li><a href="https://github.com/nikkivbenz">Github</a></li>
+        <li><a href="https://www.linkedin.com/in/nikkivbenitez/" target="_blank" rel="noopener noreferrer" >Linkedin</a></li>
+        <li><a href="https://github.com/nikkivbenz" target="_blank" rel="noopener noreferrer" >Github</a></li>
 
       </ul>
     </div> 

@@ -51,7 +51,11 @@ li a {
   text-decoration: none;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  color: #000000
+  color: #000000; 
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
 
 }
 
@@ -61,4 +65,36 @@ li a:hover{
 
 #navb {
   padding-top: 2rem;
+}
+
+#projects{
+  padding-top: 1rem;
+  padding-bottom: 2rem; 
+}
+
+input::placeholder{
+  text-align: center;
+}
+
+input{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+#content{
+  padding-left: 5rem; 
+  padding-right: 5rem;
+  padding-top: 2rem;
+}
+
+#project-elements{
+  padding-top: 1.5rem;
+}
+
+a {
+  text-decoration: none;
+  color: #000000; 
 }
